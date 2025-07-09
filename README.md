@@ -2,7 +2,7 @@
 
 A modern React application built with Vite for intelligent tax assistance and calculations.
 
-## 🚀 Features
+## Features
 
 - Built with React 19 and Vite for fast development and optimal performance
 - Styled with Tailwind CSS for responsive and modern UI
@@ -10,7 +10,7 @@ A modern React application built with Vite for intelligent tax assistance and ca
 - ESLint configuration for code quality
 - Hot Module Replacement (HMR) for instant development feedback
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -23,7 +23,7 @@ node --version
 npm --version
 ```
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository** (if not already done):
    ```bash
@@ -41,7 +41,7 @@ npm --version
    yarn install
    ```
 
-## 🎯 Getting Started
+## Getting Started
 
 ### Development Server
 
@@ -84,7 +84,7 @@ To run ESLint and check for code quality issues:
 npm run lint
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tax-genius-ai/
@@ -104,7 +104,7 @@ tax-genius-ai/
 └── README.md             # This file
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Tailwind CSS
 
@@ -123,7 +123,7 @@ ESLint is configured in `eslint.config.js` with:
 - React refresh plugin
 - Modern JavaScript support
 
-## 🚀 Deployment
+## Deployment
 
 ### Build the Application
 
@@ -170,14 +170,14 @@ npm run build
    npm run deploy
    ```
 
-## 🛠️ Development Tips
+## Development Tips
 
 - **Hot Reload**: Save any file to see changes instantly in the browser
 - **Component Development**: Create reusable components in the `src/components` directory
 - **Styling**: Use Tailwind CSS classes for styling, or create custom CSS in the `src/styles` directory
 - **Icons**: Lucide React is available for beautiful icons
 
-## 📦 Dependencies
+## Dependencies
 
 ### Main Dependencies
 - **React**: UI library
@@ -190,7 +190,7 @@ npm run build
 - **ESLint**: Code linting
 - **TypeScript types**: Type definitions for React
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -218,22 +218,6 @@ npm run build
    # Clear Vite cache
    rm -rf node_modules/.vite
    ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 💬 Support
-
-If you encounter any issues or have questions, please open an issue in the repository or contact the development team.
 
 ---
 
